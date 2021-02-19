@@ -1,0 +1,19 @@
+{
+    "name": "lmaster/think-migration",
+    "description": "The ThinkPHP6 Migration Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "lmaster",
+            "email": "407987823@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src"
+        }
+    }
+}
